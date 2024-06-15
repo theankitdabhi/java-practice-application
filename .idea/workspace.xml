@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d167a998-c946-4172-98a9-da87b38c2a4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d167a998-c946-4172-98a9-da87b38c2a4c" name="Changes" comment="LongestCommonPrefix Leetcode Top 100 Liked Questions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/java/leetcode/hundered_liked/easy/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/leetcode/hundered_liked/easy/LongestCommonPrefix.java" afterDir="false" />
     </list>
@@ -17,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="18d1483c-13ae-450e-968d-b8a66c881e26" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -76,24 +77,45 @@
       <option name="presentableId" value="Default" />
       <updated>1718470682740</updated>
     </task>
+    <task id="LOCAL-00001" summary="LongestCommonPrefix Leetcode Top 100 Liked Questions">
+      <option name="closed" value="true" />
+      <created>1718475835344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718475835344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LongestCommonPrefix Leetcode Top 100 Liked Questions">
+      <option name="closed" value="true" />
+      <created>1718476127250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718476127250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LongestCommonPrefix Leetcode Top 100 Liked Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestCommonPrefix Leetcode Top 100 Liked Questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/java/leetcode/hundered_liked/easy/LongestCommonPrefix.java</url>
-          <line>19</line>
+          <line>26</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/java/leetcode/hundered_liked/easy/LongestCommonPrefix.java</url>
-          <line>17</line>
+          <line>24</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/java/leetcode/hundered_liked/easy/LongestCommonPrefix.java</url>
-          <line>4</line>
+          <line>10</line>
           <properties class="com.java.leetcode.hundered_liked.easy.LongestCommonPrefix" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

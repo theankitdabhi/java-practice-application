@@ -1,15 +1,16 @@
 package com.java.leetcode.hundered_liked.easy;
 
 /**
-Return Longest common prefix from array of String
- e.g : {"flower","flow","flight}
- Output : "fl"
- Explanation : In Below example we can see the output is "fl" because "flow" prefix occurred two times
- and "flo" prefix occurred and "fl" occurred three times which is the highest occurrence.
+ * Return Longest common prefix from array of String
+ * e.g : {"flower","flow","flight}
+ * Output : "fl"
+ * Explanation : In Below example we can see the output is "fl" because "flow" prefix occurred two times
+ * and "flo" prefix occurred and "fl" occurred three times which is the highest occurrence.
  */
 public class LongestCommonPrefix {
     public static void main(String[] args) {
-        String[] listOfNames = {"Ankit", "Aniket", "Ankur", "Akash","Akshay"};
+        //TODO: Not Working for  different input
+        String[] listOfNames = {"ankit", "aniket", "ankur", "akshay"};
         String longestCommonPrefix = longestCommonPrefix(listOfNames);
         System.out.println(longestCommonPrefix);
     }
