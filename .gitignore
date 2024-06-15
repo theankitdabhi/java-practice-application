@@ -24,6 +24,8 @@ bin/
 
 /java-practice-application.iml
 
+/out
+
 ### VS Code ###
 .vscode/
 
