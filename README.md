@@ -1,5 +1,5 @@
-# java-practice-application
+# Java Practice Application
 
-This repository is dedicated to leetcode solution using java programming 
-I have devided solutions in multiple packages. Below are the topics which I have covered during leetcode practice
-1. Top 100 Liked | EASY (com.java.leetcode.hundered_liked.easy)
+This repository is dedicated to LeetCode solutions using Java programming. I have organized the solutions into multiple packages. Below are the topics I have covered during my LeetCode practice:
+
+1. Top 100 Liked | EASY (`com.java.leetcode.hundred_liked.easy`)
